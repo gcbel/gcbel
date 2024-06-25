@@ -7,9 +7,30 @@
 ## Tech Stack
 ### Languages
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+</a> 
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" >
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+</a>
 
 ### Libraries
 <a href="https://jquery.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
