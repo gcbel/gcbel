@@ -21,10 +21,7 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 
-### 🛢️ Databases
+### Contact me
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-
-### 👨 Social
-
-<a href="https://www.linkedin.com/in/gcbelanger/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gcbelanger/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@gabriellecbelanger" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
