@@ -14,6 +14,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></a>
+<a href="https://en.wikipedia.org/wiki/X86-64" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/x64%20Assembly-008080?style=for-the-badge&logo=assembly&logoColor=white" alt="x64 Assembly"/></a>
 
 ### Contact me
 
