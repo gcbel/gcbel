@@ -4,7 +4,7 @@
 - I'm on track to becoming a certified Full Stack Web Developer through [Columbia University](https://bootcamp.cvn.columbia.edu/coding/). <br>
 - I’m currently working on a Movie Recommending site using NLP and item-item collaborative filtering! <br>
 
-## Languages
+### Languages
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
