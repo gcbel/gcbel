@@ -18,5 +18,6 @@
 
 ### Contact me
 
+[![VS Code Pets Enthusiast](https://img.shields.io/badge/VS%20Code%20Pets-Enthusiast-blueviolet?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 <a href="https://www.linkedin.com/in/gcbelanger/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@gabriellecbelanger" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
