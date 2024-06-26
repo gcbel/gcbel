@@ -16,8 +16,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></a>
 <a href="https://en.wikipedia.org/wiki/X86-64" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/x64%20Assembly-008080?style=for-the-badge&logo=assembly&logoColor=white" alt="x64 Assembly"/></a>
 
-### Contact me
+### Interests
 
-[![VS Code Pets Enthusiast](https://img.shields.io/badge/VS%20Code%20Pets-Enthusiast-blueviolet?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
-<a href="https://www.linkedin.com/in/gcbelanger/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@gabriellecbelanger" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code%20Pets-blueviolet?style=for-the-badge&logo=visual-studio-code" alt="VS Code Pets"/></a>
