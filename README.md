@@ -16,5 +16,5 @@
 ### Interests
 
 <a href="https://medium.com/@gabriellecbelanger" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code%20Pets-blueviolet?style=for-the-badge&logo=visual-studio-code" alt="VS Code Pets"/></a>
 <a href="https://www.codewars.com/users/gcbel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codewars-ff4d4d?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code%20Pets-blueviolet?style=for-the-badge&logo=visual-studio-code" alt="VS Code Pets"/></a>
