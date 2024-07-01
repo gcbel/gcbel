@@ -2,7 +2,7 @@
 
 - I'm pursuing my Master's Degree in Computer Science on the Systems track at Stanford University. <br>
 - I'm on track to becoming a certified Full Stack Web Developer through [Columbia University](https://bootcamp.cvn.columbia.edu/coding/). <br>
-- I’m currently working on a (movie recommending site)[https://github.com/gcbel/movie-recommender] using NLP and item-item collaborative filtering! <br>
+- I’m currently working on a [movie recommending site](https://github.com/gcbel/movie-recommender) using NLP and item-item collaborative filtering! <br>
 
 ### Languages and Technologies
 
