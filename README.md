@@ -22,4 +22,6 @@
 
 <a href="https://medium.com/@gabriellecbelanger" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.codewars.com/users/gcbel" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codewars-ff4d4d?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+<a href="https://zerotomastery.io/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Zero%20to%20Mastery-1D2951?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDAiIGhlaWdodD0iNDQwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik05LjQ3IDZoMS4xMnYtLjcyQzEwLjU5IDQuNzUgMTEuMTEgNCAxMiA0Yy44OSAwIDEuNDEuNzUgMS41MSAxLjI4Yy4wMi4xMy4wMi4yNi4wMi4zOC0uMDEuNDYtLjA2Ljk2LS4yMyAxLjM3Yy0uMzMuNzUtMS4xMyAxLjgtMi40OCAyLjEyTDEyIDIwYy4yMi4xMy4yOC4zOS4xNS41OWwtLjAxLjAxLS4xMi4xMWMtLjE0LjEyLS4zNi4zNS0uNjguNzFsLS4xNi4yN0wxMiAyMmMtLjE4LjMwLS40Ny41NC0uODQuNTQtLjM2IDAtLjY2Ii8+PC9zdmc+" alt="Zero to Mastery"/></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code%20Pets-blueviolet?style=for-the-badge&logo=visual-studio-code" alt="VS Code Pets"/></a>
