@@ -1,4 +1,4 @@
-## Hello world! I'm Gabby
+## Hi! I'm Gabby
 
 - I'm pursuing my Master's Degree in Computer Science on the Systems track at Stanford University <br>
 - I'm on track to becoming a certified Full Stack Web Developer through [Columbia University](https://bootcamp.cvn.columbia.edu/coding/) <br>
